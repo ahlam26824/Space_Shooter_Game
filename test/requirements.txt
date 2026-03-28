@@ -1,0 +1,2 @@
+# No external dependencies required.
+# This game uses Python's built-in tkinter module.
